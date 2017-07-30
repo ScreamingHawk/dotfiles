@@ -1,1 +1,2 @@
-copy .editorconfig %HOMEPATH%
+copy windows/* %HOMEPATH%
+copy shared/* %HOMEPATH%

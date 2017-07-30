@@ -1,1 +1,2 @@
-cp .editorconfig ~
+cp linux/* ~
+cp shared/* ~
