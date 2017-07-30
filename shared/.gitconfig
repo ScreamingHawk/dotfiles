@@ -1,0 +1,9 @@
+[user]
+	name = Michael Standen
+[pull]
+	ff = only
+[alias]
+	st = status
+	fe = fetch
+[core]
+	autocrlf = true
