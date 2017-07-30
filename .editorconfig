@@ -1,0 +1,17 @@
+root = true
+
+[*]
+indent_style = tab
+intent_size = 2
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.md]
+trim_trailing_whitespace = false
+
+[*.{bat,ps1}]
+end_of_line = crlf
+
+[*.sh]
+end_of_line = lf
