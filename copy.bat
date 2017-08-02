@@ -1,2 +1,2 @@
-copy windows/* %HOMEPATH%
-copy shared/* %HOMEPATH%
+copy windows\* %HOMEPATH%
+copy shared\* %HOMEPATH%
