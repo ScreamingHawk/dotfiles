@@ -1,2 +1,0 @@
-cp linux/* ~
-cp shared/* ~
