@@ -6,5 +6,6 @@
 	st = status
 	fe = fetch
 	graph = log --graph --all --oneline
+	amend = commit --amend --no-edit
 [core]
 	autocrlf = true
