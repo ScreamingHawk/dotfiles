@@ -9,3 +9,5 @@
 	amend = commit --amend --no-edit
 [core]
 	autocrlf = true
+[push]
+	default = simple
