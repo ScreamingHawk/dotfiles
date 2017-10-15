@@ -11,3 +11,4 @@
 	autocrlf = true
 [push]
 	default = simple
+	followTags = true
