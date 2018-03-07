@@ -19,7 +19,8 @@ My Git config file includes a couple of helpful things.
 
 * My name
 * Force pull to only complete if it can `fast-forward`, to prevent undesired merges
-* Aliases for `status` and `fetch`
+* Fancy graph alias
+* Aliases for common functions and typos
 * Setting for line endings
 
 ## Youtube-dl config
