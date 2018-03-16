@@ -4,6 +4,7 @@
 	ff = only
 [alias]
 	st = status
+	f = fetch
 	fe = fetch
 	graph = log --graph --all --oneline --decorate
 	sh = stash
