@@ -8,6 +8,7 @@
 	fe = fetch
 	graph = log --graph --all --oneline --decorate
 	sh = stash
+	stasth = stash
 	amend = commit --amend --no-edit
 	standup = !"git log --reverse --branches --since=$(if [[ "Mon" == "$(date +%a)" ]]; then echo "Last friday"; else echo "Yesterday"; fi) --author=$(git config --get user.email) --format=format:'%C(cyan) %ad %C(yellow)%h %Creset %s %Cgreen%d' --date=local"
 	pus = push
