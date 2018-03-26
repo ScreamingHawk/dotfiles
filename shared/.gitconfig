@@ -8,6 +8,7 @@
 	fe = fetch
 	cm = commit -m
 	graph = log --graph --all --oneline --decorate
+	gprah = graph
 	sh = stash
 	stasth = stash
 	amend = commit --amend --no-edit
