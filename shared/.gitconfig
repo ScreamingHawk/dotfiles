@@ -6,6 +6,7 @@
 	st = status
 	f = fetch
 	fe = fetch
+	ef = fetch
 	cm = commit -m
 	graph = log --graph --all --oneline --decorate
 	gprah = graph
