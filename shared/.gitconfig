@@ -9,6 +9,7 @@
 	cm = commit -m
 	graph = log --graph --all --oneline --decorate
 	gprah = graph
+	gr = graph
 	sh = stash
 	stasth = stash
 	amend = commit --amend --no-edit
