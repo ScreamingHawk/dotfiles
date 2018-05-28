@@ -17,6 +17,7 @@
 	pu = push
 	pus = push
 	pusg = push
+	pushinboots = push
 [core]
 	autocrlf = true
 [push]
