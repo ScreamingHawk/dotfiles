@@ -19,6 +19,7 @@
 	pus = push
 	pusg = push
 	pushinboots = push
+	ff = merge --ff-only
 [core]
 	autocrlf = true
 [push]
