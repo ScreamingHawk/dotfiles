@@ -14,6 +14,7 @@
 	sh = stash
 	stasth = stash
 	amend = commit --amend --no-edit
+	wt = worktree
 	pu = push
 	pus = push
 	pusg = push
@@ -24,3 +25,8 @@
 [push]
 	default = simple
 	followTags = true
+	autoSetupRemote = true
+[init]
+	defaultBranch = main
+[diff]
+	context = 10
